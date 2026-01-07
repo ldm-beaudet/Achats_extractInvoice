@@ -1,0 +1,5 @@
+Attention: *.pdf n'existe pas
+Traitement de 2 fichier(s)...
+
+Traitement de: C:\Users\lionel.beaudet\Projets_IT\Achats_extractInvoice\Factures
+Erreur lors du traitement de C:\Users\lionel.beaudet\Projets_IT\Achats_extractInvoice\Factures: [Errno 13] Permission denied: 'C:\\Users\\lionel.beaudet\\Projets_IT\\Achats_extractInvoice\\Factures'
