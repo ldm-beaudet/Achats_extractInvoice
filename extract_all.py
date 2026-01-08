@@ -4,7 +4,7 @@ Script pour extraire automatiquement toutes les factures du dossier Factures/
 """
 import glob
 import os
-from src.extract_invoices import process_invoices
+from src.extract_invoices_v3 import process_invoices
 
 # Dossier contenant les factures
 FACTURES_DIR = "Factures"
